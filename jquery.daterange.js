@@ -1,4 +1,4 @@
-// Copyright 2013 Stéphane Lavergne <http://www.imars.com/> Free software under <http://www.gnu.org/licenses/lgpl-3.0.txt>
+// Copyright 2013-2014 Stéphane Lavergne <http://www.imars.com/> Free software under <http://www.gnu.org/licenses/lgpl-3.0.txt>
 
 /**
  * jQuery Date Range
@@ -122,7 +122,7 @@
  *
  * @package   jquery.daterange
  * @author    Stéphane Lavergne <http://www.imars.com/>
- * @copyright 2013 Stéphane Lavergne
+ * @copyright 2013-2014 Stéphane Lavergne
  * @license   http://www.gnu.org/licenses/lgpl-3.0.txt  GNU LGPL version 3
  */
 
